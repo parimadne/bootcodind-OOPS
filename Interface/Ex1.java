@@ -12,8 +12,8 @@ public class Ex1 {
 interface A{
     void show();
 }
-class B implements A{
-   public void show(){
-       System.out.println("I am in B");
+class B implements A {
+    public void show() {
+        System.out.println("I am in B");
     }
 }
