@@ -9,7 +9,7 @@ public class Ex1 {
         a1.show();
     }
 }
-interface A{
+interface A {
     void show();
 }
 class B implements A {
