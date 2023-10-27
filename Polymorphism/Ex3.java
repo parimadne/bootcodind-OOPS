@@ -8,19 +8,21 @@ public class Ex3 {
     a.add("Boot","coding");
     }
 }
-class A{
-    void add(){
+class A {
+    void add() {
         int a = 10;
         int b = 20;
-        int c = a+b;
+        int c = a + b;
         System.out.println(c);
     }
-    void add(int x,int y){
-        int z = x+y;
+
+    void add(int x, int y) {
+        int z = x + y;
         System.out.println(z);
     }
-    void add(String s,String p){
-        String q = s+p;
+
+    void add(String s, String p) {
+        String q = s + p;
         System.out.println(q);
     }
 }
